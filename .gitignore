@@ -1,0 +1,14 @@
+wallets.txt
+logs.txt
+package-lock.json
+image-1.png
+image.png
+image-2.png
+image-3.png
+node_modules/
+*.js
+*.js.map
+.vscode/
+.idea/
+.env
+.env.local

@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@orca-so/whirlpools": "^1.0.2",
+    "@solana-program/compute-budget": "^0.6.1",
+    "@solana/web3.js": "^2.0.0",
+    "bs58": "^6.0.0",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.6"
+  }
+}
